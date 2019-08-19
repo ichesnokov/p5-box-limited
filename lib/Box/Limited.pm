@@ -205,4 +205,19 @@ sub split_to_boxes ($class, $constructor_arg, @items) {
     return @filled_boxes;
 }
 
+=head1 AUTHOR
+
+Ilya Chesnokov L<chesnokov@cpan.org>.
+
+=head1 LICENSE
+
+Under the same terms as Perl itself.
+
+=head1 CREDITS
+
+Thanks to L<Perceptyx, Inc|https://perceptyx.com> for sponsoring work on this
+module.
+
+=cut
+
 1;
