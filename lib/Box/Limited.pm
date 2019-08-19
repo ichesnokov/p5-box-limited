@@ -2,7 +2,7 @@ package Box::Limited;
 
 =head1 NAME
 
-Box::Limited - box with a limited capacity.
+Box::Limited - Box with a limited capacity.
 
 =head1 DESCRIPTION
 
