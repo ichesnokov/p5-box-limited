@@ -45,6 +45,8 @@ use Carp qw(croak);
 use Types::Common::Numeric qw(PositiveOrZeroInt);
 use Types::Standard qw(CodeRef ArrayRef);
 
+our $VERSION = '0.01';
+
 =head1 ATTRIBUTES
 
 =head3 size
